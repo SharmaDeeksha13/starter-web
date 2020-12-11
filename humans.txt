@@ -19,3 +19,6 @@
 	
 	#Change2
 	This Change has been done second time.
+	
+	#change3
+	This change has been done Third time for comparision from working directory to staging Area.
