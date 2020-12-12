@@ -39,6 +39,9 @@ Change2 has been commited.
 	#Change7
 	TECHNOLOGY : Deveops/Jenkins/Git
 	
+	#Change8
+	Change has been done for stash purpose.
+	
 
 
 	
