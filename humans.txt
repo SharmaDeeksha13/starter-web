@@ -32,6 +32,9 @@
 	#Change6
 	TECHNOLOGY : Java/sql/operations
 	
+	#Change7
+	TECHNOLOGY : Deveops/Jenkins/Git
+	
 
 
 	
