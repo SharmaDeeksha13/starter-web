@@ -1,0 +1,2 @@
+#ChangeA
+Change1 has been commited, This is a new file created to checking how to stash the file which is not staged in git.
