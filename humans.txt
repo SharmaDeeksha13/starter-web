@@ -9,6 +9,7 @@
 
 #Change_MyBranch
 Under my_branch change has been commited.
+Change2 has been commited.
 
     <name>
 
