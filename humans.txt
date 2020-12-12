@@ -12,7 +12,7 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery, Modernizr 
 	
 	#Change1
 	This Change has been done first time.
@@ -28,3 +28,7 @@
 	
 	#change5
 	This Change5 has been done fifth time.
+	
+	#Change6
+	TECHNOLOGY : Java/sql/operations
+	
