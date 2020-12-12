@@ -1,5 +1,10 @@
 #Change1
 Change has been updated.
 
+<<<<<<< HEAD
 #Change2
 Change2 has been commited.
+=======
+#Chnge2
+Change2 has been updated.
+>>>>>>> deeksha
