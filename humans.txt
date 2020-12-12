@@ -7,6 +7,9 @@
 
 # THANKS
 
+#Change_MyBranch
+Under my_branch change has been commited.
+
     <name>
 
 # TECHNOLOGY COLOPHON
