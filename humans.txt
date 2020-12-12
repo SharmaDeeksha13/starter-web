@@ -28,3 +28,6 @@
 	
 	#change5
 	This Change5 has been done fifth time.
+
+	#Change7
+	TECHNOLOGY : Deveops/Jenkins/Git
